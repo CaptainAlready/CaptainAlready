@@ -4,4 +4,5 @@
     :email:  Email : pkapetanidis@gmail.com <br>
     :large_blue_circle: Facebook : facebook.com/panos.kapetanidis1 <br>
     :blue_square: Linkedin : www.linkedin.com/in/kapetanidispanagiotis
- ![alt text](https://github.com/CaptainAlready/CaptainAlready/blob/main/0vFtjn4.jpg)
+
+<img src="https://github.com/CaptainAlready/CaptainAlready/blob/main/0vFtjn4.jpg" width="200" height="400" />
