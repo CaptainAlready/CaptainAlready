@@ -1,8 +1,5 @@
 <p align="center">
-<style>
-h1 {text-align: center;}
-</style>
-                          <h1 style="font-size:10vw;"> :wave: Hello</h1>
+                         <h1 style="font-size:10vw;" text-align: centerl> :wave: Hello</h1>
     
  <br>
 - Currently Studying at the Computer and Engineering and Informatics Departments of the University of Patras
