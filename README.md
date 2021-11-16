@@ -1,6 +1,7 @@
 
 
 <p align="center">
+ h1 {text-align: center;}
                           <h1 style="font-size:10vw;"> :wave: Hello</h1>
     
  <br>
