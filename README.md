@@ -7,7 +7,7 @@
 - I am currently Studying at the Computer and Engineering and Informatics Departments of the University of Patras<br>
 - Interested in Algorithm Design , Data Bases , Programming and Maths. <br>
  </p>
-- 📫 How to reach me: <br>
+-                 📫 How to reach me: <br>
 - <p align="center">
     :email:  Email : pkapetanidis@gmail.com <br>
     :large_blue_circle: Facebook : facebook.com/panos.kapetanidis1 <br>
