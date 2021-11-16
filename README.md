@@ -1,5 +1,5 @@
 <p align="center">
-                         <h1 style="font-size:10vw;" style="text-align:center;"> :wave: Hello</h1>
+                         <h1 style="text-align:center;"> :wave: Hello</h1>
  <br>
 - Currently Studying at the Computer and Engineering and Informatics Departments of the University of Patras
 - I am interested in Algorithm Design , Data Bases , Programming and Maths.
