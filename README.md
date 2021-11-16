@@ -12,7 +12,7 @@
     :blue_square: Linkedin : www.linkedin.com/in/kapetanidispanagiotis <br>
 
 <a href="LINK_TO_REPO">
-  <img src="https://github.com/CaptainAlready/CaptainAlready/blob/main/aIlJMZc.gif" alt="Gif" width="150" height="150">
+  <img src="https://github.com/CaptainAlready/CaptainAlready/blob/main/aIlJMZc.gif" alt="Gif" width="250" height="250">
 </a>
  
 </p>
