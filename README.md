@@ -1,4 +1,9 @@
+
+
 <p align="center">
+    <h1 style="font-size:10vw;">Hello</h1>
+    
+ <br>
 - Currently Studying at the Computer and Engineering and Informatics Departments of the University of Patras
 - I am interested in Algorithm Design , Data Bases , Programming and Maths.
 - 📫 How to reach me: <br>
