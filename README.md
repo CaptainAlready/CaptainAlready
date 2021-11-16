@@ -3,9 +3,9 @@
 <p align="center">
                         
  <br>
-- My name is Panos Kapetanidis
-- I am currently Studying at the Computer and Engineering and Informatics Departments of the University of Patras
-- Interested in Algorithm Design , Data Bases , Programming and Maths.
+- My name is Panos Kapetanidis <br>
+- I am currently Studying at the Computer and Engineering and Informatics Departments of the University of Patras<br>
+- Interested in Algorithm Design , Data Bases , Programming and Maths. <br>
 - 📫 How to reach me: <br>
     :email:  Email : pkapetanidis@gmail.com <br>
     :large_blue_circle: Facebook : facebook.com/panos.kapetanidis1 <br>
