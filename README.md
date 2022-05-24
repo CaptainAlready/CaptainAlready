@@ -1,19 +1,21 @@
 <h1 style="text-align:center;"> :wave: Hi</h1>
 
-
-<h1 style="text-align:center;"> 
-
 <p align="center">
-                        
- 
+
+ <br>
+- My name is Panos Kapetanidis <br>
+- I am currently Studying as a undergraduade student at the Computer and Engineering and Informatics Departments, University of Patras<br>
+- Interested in Algorithm Design , Data Bases , Programming and Maths. <br>
+
 * My name is Panos Kapetanidis <br>
 * I am currently Studying as a undergraduade student at the Computer and Engineering and Informatics Departments, University of Patras<br>
 * Interested in Algorithm Design , Data Bases , Programming and Maths. <br>
  </p>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-📫 How to reach me: <br>
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-📫 Reach me through: <br>
- 
+
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :email:  Email : pkapetanidis@gmail.com <br>
-  
+
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:large_blue_circle: Facebook : www.facebook.com/panos.kapetanidis1 <br>
    
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :blue_square: Linkedin : www.linkedin.com/in/kapetanidispanagiotis <br>
@@ -23,4 +25,3 @@
   <img src="https://github.com/CaptainAlready/CaptainAlready/blob/main/aIlJMZc.gif" alt="Gif" width="250" height="250">
 </a>
   </p>
-
