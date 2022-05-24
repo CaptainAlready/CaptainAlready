@@ -2,10 +2,6 @@
 
 <p align="center">
 
- <br>
-- My name is Panos Kapetanidis <br>
-- I am currently Studying as a undergraduade student at the Computer and Engineering and Informatics Departments, University of Patras<br>
-- Interested in Algorithm Design , Data Bases , Programming and Maths. <br>
 
 * My name is Panos Kapetanidis <br>
 * I am currently Studying as a undergraduade student at the Computer and Engineering and Informatics Departments, University of Patras<br>
